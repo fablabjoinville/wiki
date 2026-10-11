@@ -7,7 +7,7 @@ const config = {
   url: 'https://wiki.fablabjoinville.com.br',
   baseUrl: '/',
   organizationName: 'fablabjoinville',
-  projectName: 'fablabjoinville.github.io',
+  projectName: 'wiki',
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
@@ -32,7 +32,7 @@ const config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: './sidebars.js',
-          editUrl: 'https://github.com/fablabjoinville/fablabjoinville.github.io/tree/main/',
+          editUrl: 'https://github.com/fablabjoinville/wiki/tree/main/',
         },
         blog: false,
         theme: {
